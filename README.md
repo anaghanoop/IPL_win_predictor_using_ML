@@ -13,7 +13,7 @@ To run this project locally, follow these steps:
 1. ### Clone the Repository
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/IPL_win_predictor.git
+git clone https://github.com/anaghanoop/IPL_win_predictor.git
 cd IPL_win_predictor
 ```
 
